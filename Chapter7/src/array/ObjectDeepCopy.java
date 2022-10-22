@@ -43,7 +43,7 @@ public class ObjectDeepCopy {
 			System.out.println(strArr[i]);
 		}
 		// 향상된 for문, strArr의 처음부터 끝까지 사용하는 경우에 사용함. (여기서는 String s 인데, 각 배열 타입에 맞게 선언하면 됨.)
-		// String으로 선언된 s에 strArr의 값들이 들어감.
+		// String으로 선언된 s에 strArr의 값들이 들어감. s = strArr[i];
 		for(String s : strArr) {
 			System.out.println(s);
 		}
