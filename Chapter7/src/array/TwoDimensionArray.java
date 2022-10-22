@@ -14,6 +14,19 @@ public class TwoDimensionArray {
 				System.out.println(arr[i][j]);
 			}
 		}
+		
+		// 221 페이지 연습문제 
+		char[][] alphabets = new char[13][2];
+		char alphabet = 97;
+		for(int i = 0; i < alphabets.length; i++) {
+			for(int j = 0; j < alphabets[i].length; j++) {
+				alphabets[i][j] = alphabet;
+				alphabet++;
+				System.out.println(alphabets[i][j]);
+			}
+		}		
+
+		
 	}
 
 }
