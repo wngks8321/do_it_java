@@ -11,7 +11,7 @@ public class CustomerTest1 {
 		customerLee.setCustomerID(10100);
 		customerLee.setCustomerName("Lee");
 		*/
-		VIPCustomer customerKim = new VIPCustomer(10101, "Kim");
+		VIPCustomer customerKim = new VIPCustomer(10101, "Kim", 100);
 		customerKim.setBonusPoint(1000);
 		
 		//System.out.println(customerLee.showCustomerInfo());
