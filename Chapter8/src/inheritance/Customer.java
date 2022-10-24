@@ -4,12 +4,14 @@ public class Customer {
 	protected int customerID;
 	protected String customerName;
 	protected String customerGrade;
-	int bonusPoint;
+	protected int bonusPoint;
 	double bonusRatio;
 	
 	public Customer() {
 		customerGrade = "SILVER";
 		bonusRatio = 0.01;
+		
+		System.out.println("Customer() 호출 ");
 	}
 	
 	public int calcPrice(int price) {
@@ -43,5 +45,13 @@ public class Customer {
 
 	public void setCustomerGrade(String customerGrade) {
 		this.customerGrade = customerGrade;
+	}
+
+	public int getBonusPoint() {
+		return bonusPoint;
+	}
+
+	public void setBonusPoint(int bonusPoint) {
+		this.bonusPoint = bonusPoint;
 	}
 }
