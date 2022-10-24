@@ -7,11 +7,21 @@ public class Customer {
 	protected int bonusPoint;
 	double bonusRatio;
 	
+	/*
 	public Customer() {
 		customerGrade = "SILVER";
 		bonusRatio = 0.01;
 		
 		System.out.println("Customer() 호출 ");
+	}
+	*/
+	
+	// 1. 생성자를 사용하는 경우, 하위클래스에서도 변수를 받아서 super()에 매개변수로 전해주는 형태로 사용 (VIPCustomer로 이동)	
+	public Customer(int customerID, String customerName) {
+		this.customerID = customerID;
+		this.customerName = customerName; 
+		customerGrade = "SILVER";
+		bonusRatio = 0.01;
 	}
 	
 	public int calcPrice(int price) {
