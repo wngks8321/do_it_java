@@ -34,6 +34,7 @@ public class AnimalTest {
 		test.moveAnimal(new Eagle()); //독수리가 하늘을 날아다닙니다.
 		
 		
+		
 	}
 
 	public void moveAnimal(Animal animal) {

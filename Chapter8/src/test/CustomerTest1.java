@@ -1,6 +1,7 @@
 package test;
 
 import inheritance.Customer;
+import inheritance.GoldCustomer;
 import inheritance.VIPCustomer;
 
 public class CustomerTest1 {
@@ -16,6 +17,8 @@ public class CustomerTest1 {
 		
 		//System.out.println(customerLee.showCustomerInfo());
 		System.out.println(customerKim.showCustomerInfo());
+		
+		Customer customerGold = new GoldCustomer();
 	}
 
 }
