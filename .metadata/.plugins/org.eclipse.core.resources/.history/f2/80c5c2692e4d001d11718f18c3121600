@@ -1,7 +1,0 @@
-package reference;
-
-public class BirthDay {
-	int day;
-	int month;
-	int year;
-}

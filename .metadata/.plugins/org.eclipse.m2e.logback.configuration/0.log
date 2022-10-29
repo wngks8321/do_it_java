@@ -9,3 +9,7 @@
 2022-10-22 14:54:57,084 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@d7fae97{/help,null,AVAILABLE}
 2022-10-22 14:54:57,108 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@31e12944{HTTP/1.1, (http/1.1)}{127.0.0.1:50363}
 2022-10-22 14:54:57,159 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started Server@5a105666{STARTING}[10.0.11,sto=0] @4701827ms
+2022-10-27 22:56:07,635 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped Server@5a105666{STOPPING}[10.0.11,sto=0]
+2022-10-27 22:56:07,640 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@31e12944{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2022-10-27 22:56:07,667 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@d7fae97{/help,null,STOPPED}
+2022-10-29 15:02:58,124 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
