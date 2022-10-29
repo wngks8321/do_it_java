@@ -14,6 +14,13 @@ public class CalculatorTest {
 		
 		CompleteCalc calc1 = new CompleteCalc(); 
 		System.out.println(calc1.square(num1));
+		
+		calc.description();
+		
+		// static method 사용
+		int[] arr = {1,2,3,4,5};
+		int sum = Calc.total(arr);
+		System.out.println(sum);
 	}
 
 }

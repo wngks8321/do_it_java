@@ -9,4 +9,7 @@
     <fullyQualifiedTypeName name="gamelevel.PlayerLevel"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="abstractEx.Car"/>
+    <fullyQualifiedTypeName name="interfaceEx.Calculator"/>
+    <fullyQualifiedTypeName name="scheduler.PriorityAllocation"/>
+    <fullyQualifiedTypeName name="scheduler.Scheduler"/>
 </qualifiedTypeNameHistroy>
