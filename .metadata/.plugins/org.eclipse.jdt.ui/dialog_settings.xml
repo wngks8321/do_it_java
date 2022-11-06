@@ -41,7 +41,7 @@
 		<item key="RemoveFinal" value="false"/>
 	</section>
 	<section name="DialogBounds_GetterSetterTreeSelectionDialog">
-		<item key="DIALOG_X_ORIGIN" value="405"/>
+		<item key="DIALOG_X_ORIGIN" value="160"/>
 		<item key="DIALOG_Y_ORIGIN" value="43"/>
 		<item key="DIALOG_WIDTH" value="557"/>
 		<item key="DIALOG_HEIGHT" value="636"/>
@@ -57,6 +57,7 @@
 		<item key="updateTextualMatches" value="false"/>
 		<item key="updateQualifiedNames" value="false"/>
 		<item key="patterns" value="*"/>
+		<item key="renameSubpackages" value="false"/>
 	</section>
 	<section name="org.eclipse.jdt.internal.ui.text.QuickOutline">
 		<item key="GoIntoTopLevelTypeAction.isChecked" value="false"/>
@@ -69,7 +70,7 @@
 		<item key="showtypes" value="true"/>
 	</section>
 	<section name="DialogBounds_OverrideMethodDialog">
-		<item key="DIALOG_X_ORIGIN" value="220"/>
+		<item key="DIALOG_X_ORIGIN" value="202"/>
 		<item key="DIALOG_Y_ORIGIN" value="296"/>
 		<item key="DIALOG_WIDTH" value="515"/>
 		<item key="DIALOG_HEIGHT" value="456"/>

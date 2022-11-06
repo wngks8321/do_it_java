@@ -7,9 +7,14 @@
     <fullyQualifiedTypeName name="inheritance.GoldCustomer"/>
     <fullyQualifiedTypeName name="inheritance.Customer"/>
     <fullyQualifiedTypeName name="gamelevel.PlayerLevel"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="abstractEx.Car"/>
     <fullyQualifiedTypeName name="interfaceEx.Calculator"/>
     <fullyQualifiedTypeName name="scheduler.PriorityAllocation"/>
     <fullyQualifiedTypeName name="scheduler.Scheduler"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Constructor"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Field"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Method"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="collection.Member"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
 </qualifiedTypeNameHistroy>
