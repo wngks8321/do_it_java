@@ -1,23 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="395"/>
+		<item key="DIALOG_X_ORIGIN" value="307"/>
 		<item key="DIALOG_Y_ORIGIN" value="353"/>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
-		<item key="selection" value="TreeSet"/>
+		<item key="selection" value="TreeMap"/>
 		<item key="wrap" value="true"/>
 		<item key="casesensitive" value="false"/>
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
+			<item value="HashMap"/>
 			<item value="HashSet"/>
 			<item value="advanced"/>
 			<item value="beginner"/>
 			<item value="busNumber"/>
 		</list>
 		<list key="replacehistory">
+			<item value="TreeMap"/>
 			<item value="TreeSet"/>
 			<item value="Super"/>
 			<item value="advanced"/>
